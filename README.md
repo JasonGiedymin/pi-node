@@ -1,6 +1,6 @@
 # Performant Chudnovsky Pi on NodeJS
 
-This project provides an accurate and performant means of generating Pi using NodeJS.
+This project provides an accurate and performant means of generating Pi via the [Chudnovsky algorithm](http://en.wikipedia.org/wiki/Chudnovsky_algorithm) using NodeJS.
 
 This project is constantly being improved upon.
 
