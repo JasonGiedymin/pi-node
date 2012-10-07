@@ -283,6 +283,11 @@ function selfCheck() {
     if (i === range.length) {
         console.log('Self check completed with success');
         if (app_opt.track_hits) {console.log('Cache Hits:[' + JSON.stringify(cache_hits) + '].');}
+
+        // Reset caches
+        global_cache = {};
+        cache_hits = {};
+
         module.exports = piChudnovskyBS;
     }
 }
