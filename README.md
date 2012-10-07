@@ -8,7 +8,7 @@ All significant variations are benchmarked.
 
 A self check occurs on the first require to ensure system stability.
 
-- Jason Giedymin <jasong _:-a-t:-_ apache _dot_ org>
+    Jason Giedymin <jasong _:-a-t:-_ apache _dot_ org>
 
 
 ## Other Improvements
