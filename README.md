@@ -42,5 +42,5 @@ Variation of pinode exist as pinode#.js where '#' is the variation number.
 
     Fastest is Pi9#10kDigits Global Advanced Custom Caching to other functions + hit tracking
 
-In summary, performance went from ~13 ops/sec (of Pi @ 10k digits) to 1729 ops/sec.
+In summary, performance went from ~13 ops/sec (of Pi @ 10k digits) to 1750 ops/sec.
 
